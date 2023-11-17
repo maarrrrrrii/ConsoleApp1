@@ -8,6 +8,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Привет, мир!");
             Console.WriteLine("Привет, Камилла!");
+
+            Console.WriteLine("Привет, Саша!");
         }
     }
 }
